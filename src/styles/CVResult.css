@@ -1,0 +1,32 @@
+.cv-result{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    flex: 1;
+}
+
+.cv-result > *{
+    margin: 0px;
+}
+
+.cv-result h1{
+    margin: 20px 10px;
+}
+
+.cv-result h2{
+    margin: 16px 10px;
+}
+
+.cv-result h3{
+    margin: 5px 10px;
+}
+
+.cv-result .date{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.footer{
+    margin-top: auto;
+}

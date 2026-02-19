@@ -1,0 +1,16 @@
+.app{
+  display: flex;
+  gap: 1rem;
+}
+
+.cv-form,
+.cv-result{
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 1rem;
+  margin: 0;
+}
+
+h1{
+  margin: 0;
+}
